@@ -1,0 +1,31 @@
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(220,161,65,1.00) 0%,rgba(187,138,45,1.00) 49.22%,rgba(133,100,110,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(220,161,65,1.00) 0%,rgba(187,138,45,1.00) 49.22%,rgba(133,100,110,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(220,161,65,1.00) 0%,rgba(187,138,45,1.00) 49.22%,rgba(133,100,110,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(220,161,65,1.00) 0%,rgba(187,138,45,1.00) 49.22%,rgba(133,100,110,1.00) 100%);
+
+
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(46,51,45,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(46,51,45,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(46,51,45,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(46,51,45,1.00) 100%);
+
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #ED9E08;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #ED9E08;
+}
+.container-fluid .container footer {
+}
+.container .row .col-xl-6 {
+    color: #FFFFFF;
+}
+.container-fluid .container .row {
+}
+.container .row .col-xl-6 {
+    background-color: #000000;
+}
